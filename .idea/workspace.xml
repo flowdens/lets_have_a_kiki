@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2f95cb6-78da-4994-add3-d62717220d8a" name="Changes" comment="hw 3">
-      <change afterPath="$PROJECT_DIR$/home_work_04/main.py" afterDir="false" />
+    <list default="true" id="f2f95cb6-78da-4994-add3-d62717220d8a" name="Changes" comment="hw 2">
+      <change afterPath="$PROJECT_DIR$/home_work_06/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_06/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_06/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_06/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_06/task5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="hw3" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,15 +43,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/lyubb/PycharmProjects/lets_have_a_kiki/home_work_01/hw1.py&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/lyubb/PycharmProjects/lets_have_a_kiki/home_work_06"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lyubb\PycharmProjects\lets_have_a_kiki\home_work_06" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="task5" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="lets_have_a_kiki" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,7 +68,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work_04/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work_06/task5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,6 +142,7 @@
     <MESSAGE value="did it" />
     <MESSAGE value="ffix" />
     <MESSAGE value="hw 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw 2" />
+    <MESSAGE value="merhe fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="merhe fix" />
   </component>
 </project>
